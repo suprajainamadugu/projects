@@ -1,0 +1,7 @@
+<project name="first project" default="target1">
+<target name="target1">
+<echo>thi is a target1</echo>
+
+</target>
+
+</project>
